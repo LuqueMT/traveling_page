@@ -1,3 +1,20 @@
+# Projeto Treveling
+
+O **Treveling** é um projeto desenvolvido com tecnologias modernas e eficientes para criar uma experiência web robusta e otimizada.
+
+## 🚀 Tecnologias Utilizadas
+
+- **Next.js**: Framework React para criação de aplicações web modernas.
+- **Tailwind**: Framework de CSS para estilização prática e responsiva.
+- **TypeScript**: Superset do JavaScript para tipagem estática.
+
+## 🛠️ Ferramentas e Bibliotecas Adicionais
+
+- **eslint 9**: Ferramenta utilizada para garantir um código limpo e padronizado.
+- **abasync**: Biblioteca incorporada ao projeto para funcionalidades assíncronas.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
